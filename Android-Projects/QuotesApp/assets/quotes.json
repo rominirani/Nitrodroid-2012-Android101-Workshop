@@ -1,0 +1,18 @@
+{"quotesdb": { 
+              "version":"1.0",
+              "quotes": 
+                [
+                  {"id":"1","who":"Benjamin Franklin","what":"You may delay but time will not."},
+                  {"id":"2","who":"Mark Twain","what":"To cease smoking is the easiest thing I ever did. I ought to know because I've done it a thousand times."},
+                  {"id":"3","who":"C.S. Lewis","what":"You play the hand you're dealt. I think the game's worthwhile."},
+                  {"id":"4","who":"Oscar Wilde","what":"We live in an age when unnecessary things are our only necessities."},
+                  {"id":"5","who":"Henry Ford","what":"Failure is the only opportunity to begin again more intelligently."},
+                  {"id":"6","who":"Robert Frost","what":"It's a funny thing that when a man hasn't anything on earth to worry about, he goes off and gets married."},
+                  {"id":"7","who":"Abraham Lincoln","what":"You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time."},
+                  {"id":"8","who":"Will Rogers","what":"The more you read and observe about this Politics thing you got to admit that each party is worse than the other."},
+                  {"id":"9","who":"Mark Twain","what":"Humor is mankind's greatest blessing."},
+                  {"id":"10","who":"Fran Lebowitz","what":"Life is something that happens when you can't get to sleep."},
+                ]
+             }
+}
+           

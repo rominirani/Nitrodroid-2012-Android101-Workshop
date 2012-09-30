@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity1">I am Activity 1</string>
+    <string name="activity2">I am Activity 2</string>
+    <string name="app_name">MultipleActivities</string>
+    <string name="launchActivity2">Launch Activity 2</string>
+</resources>
