@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+D:\mindstorm-android-training\android-sdk-latest\eclipse-juno\Nitrodroid-2012-Workspace\.metadata\.plugins\org.eclipse.jdt.core
+119849099.index

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/app_header_image" />
+
+    <Button
+        android:id="@+id/btnShowQuotes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Quotes" />
+
+    <Button
+        android:id="@+id/btnAboutApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About This App" />
+
+</LinearLayout>
