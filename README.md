@@ -18,6 +18,8 @@ My development environment consisted of the following software:
 - Android Eclipse Plugin (ADT) version 18.0.0
 - Android SDK 2.3.3 (Level 10). I have tested the same on Android SDK 4.0.x and 4.1.x (Level 15 &16) - it works fine.
 
+If you are using the latest ADT, refer to the `hands-on exercises` folder and refer to the files that have the *-NewPlugin.docx. These files contain the right instructions for the latest ADT plugin. If you are using and older ADT i.e. 18, you can refer to the `hands-on-exercises` without the *-NewPlugin suffix.
+
 In case you want to setup your Android Development Environment, I suggest you start right at the source: [http://developer.android.com/sdk/installing/index.html](http://developer.android.com/sdk/installing/index.html)
 
 For any questions, write to me at [romin.irani@mindstormsoftware.com](mailto:romin.irani@mindstormsoftware.com)
